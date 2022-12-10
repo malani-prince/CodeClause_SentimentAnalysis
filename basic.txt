@@ -1,0 +1,14 @@
+Name : Malani Prince
+
+College : LDRP Institute of Technology
+
+Aim : Sentiment Analysis
+
+Description : Sentiment analysis is the act of analysing words to determine 
+		  Sentiments and opinions that may be positive or negative in polarity.
+
+Language : Python 3
+
+IDE : jupyter notebook
+
+
